@@ -25,11 +25,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 document.addEventListener('DOMContentLoaded', function() {
     const titles = [
-        "Lifelong Learner: Student",
-        "Security Specialist: Hacker",
-        "Digital Defender: Cyber",
-        "Customer Experience Champion: Customer Team Member (CTM)",
-        "Military service: Veteran"
+        "Student",
+        "Hacker",
+        "Cyber Security",
+        "Customer Team Member",
+        "Ex Military"
     ];
 
     const typedText = document.querySelector('.typed-text');
